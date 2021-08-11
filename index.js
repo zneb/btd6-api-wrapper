@@ -57,4 +57,3 @@ module.exports = {
         return bloon;
     },
 };
-module.exports.getBloons().then(r => console.log(r))
